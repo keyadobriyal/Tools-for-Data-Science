@@ -1,0 +1,1 @@
+The course, which is part of the Data Science Professional Certificate by IBM, it helped me as an introduction to a Data Scientist's workbench or toolkit that consists of a variety of tools, languages, libraries, APIs, data sets, models, etc. used by Data Scientists. 
